@@ -38,24 +38,26 @@ Dynamic 3D Virtual Commerce:
 The introduction of a multi-vendor shopping feature in the Void Metaverse revolutionizes traditional e-commerce, providing users with real-time, interactive shopping experiences, a significant leap from 2D platforms.
 
 
-<b>Special Feature:-</b>
-AI-Enhanced Experiences:
-Intelligent AI integration enhances user interactions, providing personalized experiences and support throughout their journey in the Void Metaverse.
+## <b>Special Feature:-</b>
+### AI-Enhanced Experiences:
+Intelligent AI integration enhances user interactions, providing personalized experiences and support throughout their journey in the Void Metaverse including OpenAI's GPT and Google's Gemini.
 [Images]
 
-Immersive Advertising Spaces:
+### Immersive Advertising Spaces:
 The Void Metaverse creates unique advertising opportunities, allowing businesses to engage users in innovative, immersive ways within the 3D environment.
 [images]
 
+### Personal Posts 
+Users can post images for other void users to interact with.
 Business Collaboration and Networking Hubs:
 Specialized spaces within the Void Metaverse foster business collaboration and networking, providing a unique platform for enterprises to connect and thrive in the digital landscape.
 
-FUTURE SCOPE:-
+### FUTURE SCOPE:-
 1.Voice Chat
 2.Steaming Area
 3.Disco
 
-TECNOLOGIES USED:-
+## TECNOLOGIES USED:-
 1.UNITY
 2.C#
 3.BLENDER
@@ -63,6 +65,9 @@ TECNOLOGIES USED:-
 5.SPLINE
 6.JAVASCRIPT
 7.FIGMA
+8.Streamlit
+9.Vue.js
+10.php
 
 HOW DO WE USED VOID?
 
