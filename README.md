@@ -38,7 +38,7 @@ Dynamic 3D Virtual Commerce:
 The introduction of a multi-vendor shopping feature in the Void Metaverse revolutionizes traditional e-commerce, providing users with real-time, interactive shopping experiences, a significant leap from 2D platforms.
 
 
-## <b>Special Feature:-</b>
+## <b>Special Features:-</b>
 ### AI-Enhanced Experiences:
 Intelligent AI integration enhances user interactions, providing personalized experiences and support throughout their journey in the Void Metaverse including OpenAI's GPT and Google's Gemini.
 [Images]
