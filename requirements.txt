@@ -2,3 +2,5 @@ streamlit==0.89.0
 python-dotenv==0.19.2
 langchain==0.1.5
 langchain-google-genai
+pypdf==4.0.1
+chromadb==0.4.22
